@@ -4,9 +4,9 @@
 I'm Sankalp 
 
                                                                                    
-- 🔭 I’m currently working on My Game development journey
+- 🔭 I’m currently working on AI/ML journey
  
-- 🌱 I’m currently learning Languages to use in gamedev
+- 🌱 I’m currently learning Languages to use in AI/ML
 
 - 📫 How to reach me: Linkedin:Sankalp Barapatre
  
